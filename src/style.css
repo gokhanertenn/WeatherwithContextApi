@@ -1,0 +1,14 @@
+
+.app {
+
+    height: 100vh;
+}
+
+
+.app.dark{
+    color: aliceblue;
+    background-color: black;
+}
+
+
+
